@@ -12,7 +12,7 @@ on:
 env:
   AWS_REGION: us-east-1
   EKS_CLUSTER_NAME: cluster
-  BACKEND_ECR_REPOSITORY: 443707918484.dkr.ecr.us-east-1.amazonaws.com/backend
+  BACKEND_ECR_REPOSITORY: 771010491071.dkr.ecr.us-east-1.amazonaws.com/backend
 
 jobs:
   lint:
